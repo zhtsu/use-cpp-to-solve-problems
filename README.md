@@ -1,2 +1,2 @@
-# GetAC
-Accepted CPP code for algorithmic problems
+# Use CPP to solve problems
+- One
